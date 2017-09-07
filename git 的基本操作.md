@@ -11,3 +11,6 @@
 4. git remote add origin https://github.com/loroxxx/notes.git
 5. git push -u origin master
 
+###简单命令
+
+*查看文件状态 git status
